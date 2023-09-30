@@ -55,14 +55,16 @@ To run the Employee Management System on your local machine, follow these steps:
 - Python 3.x installed on your system.
 - Required Python packages (dependencies) installed. You can install them using `pip`:
 
-```bash
-pip install pillow matplotlib pandas tkcalendar
-Usage
+```bash pip install pillow matplotlib pandas tkcalendar```
+### Usage
+
 Launch the application by running main.py.
 Use the menu to navigate through the program's functionalities:
-Employee Records: Add, update, delete, or import employee records.
-Work Time Tracking: Analyze work hours and view the work hours chart.
-Customized Welcome Page: Log in and enter time-in and time-out information.
+> Employee Records: Add, update, delete, or import employee records.
+> Work Time Tracking: Analyze work hours and view the work hours chart.
+> Customized Welcome Page: Log in and enter time-in and time-out information.
 Follow the on-screen instructions to perform the desired operations.
-Contributing
+
+###Contributing
+
 Contributions are welcome! If you have suggestions, improvements, or bug fixes, please open an issue or create a pull request.
